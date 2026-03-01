@@ -1,6 +1,6 @@
-# LiaChat - Real-Time Chat Application
+# CoreConnect - Real-Time Chat Application
 
-LiaChat is a modern, real-time chat application designed for instant communication. It includes features like real-time messaging, typing indicators, and innovative chat summarization powered by Google Gemini AI. Built with a robust tech stack, LiaChat offers a seamless and responsive user experience across all devices.
+CoreConnect is a modern, real-time chat application designed for instant communication. It includes features like real-time messaging, typing indicators, and innovative chat summarization powered by Google Gemini AI. Built with a robust tech stack, LiaChat offers a seamless and responsive user experience across all devices.
 
 <a href="https://regal-figolla-01a138.netlify.app/">**Checkout Live Here**</a>
 
